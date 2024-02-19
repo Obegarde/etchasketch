@@ -6,7 +6,6 @@ body{
     
 }
 div{
-    border: solid red 3px;
     display: flex;
     
 }
@@ -14,8 +13,14 @@ div{
 .row{
     flex-direction: column;
 }
+.gridContainer{
+    border: solid darkblue 3px;
+}
 
+
+/*
 .square{
     height: 50px;
     width: 50px;
 }
+*/
